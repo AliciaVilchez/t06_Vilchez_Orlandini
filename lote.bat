@@ -118,6 +118,10 @@ python vilchez/condicionales.multiples10.py "Josefina" 180 300
 python vilchez/condicionales.multiples10.py "Eduardo" 100 100
 python vilchez/condicionales.multiples10.py "Blanca" 50 110
 
+python chambergo/Simple1.py "pastillas" 18
+python chambergo/Simple1.py "pastillas" 19
+python chambergo/Simple1.py "pastillas" 14
+
 
 
 
