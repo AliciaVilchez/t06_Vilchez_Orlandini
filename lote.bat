@@ -98,6 +98,12 @@ python vilchez/condicionales.multiples05.py "Axel" "pantalones" 6 80
 python vilchez/condicionales.multiples05.py "Santiago" "zapatillas" 1 280
 python vilchez/condicionales.multiples05.py "Diego" "polos" 1 60
 
+python vilchez/condicionales.multiples06.py "Valentin" "Doctor" 38 "24meses"
+python vilchez/condicionales.multiples06.py "Luis" "abogado" 27 "18meses"
+python vilchez/condicionales.multiples06.py "Sergio" "contador" 35 "14meses"
+
+
+
 
 
 
