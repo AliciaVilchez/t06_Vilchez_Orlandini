@@ -146,6 +146,16 @@ python chambergo/Simple7.py "alumno1" 15
 python chambergo/Simple7.py "alumno2" 14
 python chambergo/Simple7.py "alumno3" 13
 
+python chambergo/Simple8.py "trabajador1" 42
+python chambergo/Simple8.py "trabajador2" 42
+python chambergo/Simple8.py "trabajador3" 40
+
+
+
+
+
+
+
 
 
 
