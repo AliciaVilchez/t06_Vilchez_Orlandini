@@ -26,6 +26,12 @@ python vilchez/simple07.py "Lidia" "Particular" 49 "Si"
 python vilchez/simple07.py "Antonio" "Particular" 55 "Si"
 python vilchez/simple07.py "Elena" "Seguro" 38 "No"
 
+python vilchez/simple08.py "Juana" 2019 1996
+python vilchez/simple08.py "Tomas" 2019 1987
+python vilchez/simple08.py "Angie" 2019 2002
+
+
+
 
 
 
