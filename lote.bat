@@ -154,6 +154,12 @@ python chambergo/Simple9.py "Julio" 42
 python chambergo/Simple9.py "Andres" 65
 python chambergo/Simple9.py "Sandra" 35
 
+python chambergo/Simple10.py "cliente01" 53
+python chambergo/Simple10.py "cliente02" 48
+python chambergo/Simple10.py "cliente03" 57
+
+
+
 
 
 
