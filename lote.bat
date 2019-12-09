@@ -94,6 +94,13 @@ python vilchez/condicionales.multiples04.py "Karla" 20 18 19 20
 python vilchez/condicionales.multiples04.py "Kevin" 17 16 15 16
 python vilchez/condicionales.multiples04.py "Guadalupe" 12 11 11 10
 
+python vilchez/condicionales.multiples05.py "Axel" "pantalones" 6 80
+python vilchez/condicionales.multiples05.py "Santiago" "zapatillas" 1 280
+python vilchez/condicionales.multiples05.py "Diego" "polos" 1 60
+
+
+
+
 
 
 
