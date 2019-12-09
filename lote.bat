@@ -54,6 +54,12 @@ python vilchez/condicionales.dobles04.py "Karla" 15 12 11 12
 python vilchez/condicionales.dobles04.py "Kevin" 11 15 14 16
 python vilchez/condicionales.dobles04.py "Guadalupe" 18 20 15 16
 
+python vilchez/condicionales.dobles05.py "Axel" "pantalones"  4 80
+python vilchez/condicionales.dobles05.py "Santiago" "zapatillas" 2 350
+python vilchez/condicionales.dobles05.py "Diego" "polos" 2 80
+
+
+
 
 
 
