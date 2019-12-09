@@ -214,6 +214,12 @@ python chambergo/Multiple4.py "cartera" 350 200 78
 python chambergo/Multiple4.py "casaca" 290 180 80
 python chambergo/Multiple4.py "botas" 250 240 65
 
+python chambergo/Multiple5.py "Juliana" 10 5 1
+python chambergo/Multiple5.py "Karlos" 15 7 2
+python chambergo/Multiple5.py "Jesus" 9 8 1
+
+
+
 
 
 
