@@ -182,6 +182,11 @@ python chambergo/Doble6.py "cliente01" 65
 python chambergo/Doble6.py "cliente02" 35
 python chambergo/Doble6.py "cliente03" 43
 
+python chambergo/Doble7.py "alumno01" 11
+python chambergo/Doble7.py "alumno02" 12
+python chambergo/Doble7.py "alumno03" 15
+
+
 
 
 
