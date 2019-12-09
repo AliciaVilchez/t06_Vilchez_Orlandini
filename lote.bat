@@ -174,6 +174,10 @@ python chambergo/Doble4.py "cartera" 150
 python chambergo/Doble4.py "casaca" 220
 python chambergo/Doble4.py "botas" 180
 
+python chambergo/Doble5.py "Percy" 5
+python chambergo/Doble5.py "Javier" 3
+python chambergo/Doble5.py "Cecilio" 6
+
 
 
 
