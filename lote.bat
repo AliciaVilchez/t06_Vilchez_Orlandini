@@ -86,6 +86,14 @@ python vilchez/condicionales.multiples02.py "Alicia" 28 60 10
 python vilchez/condicionales.multiples02.py "Patrick" 26 50 5
 python vilchez/condicionales.multiples02.py "Keyla" 23 30 6
 
+python vilchez/condicionales.multiples03.py "Rita" 7
+python vilchez/condicionales.multiples03.py "Carlos" 5
+python vilchez/condicionales.multiples03.py "Jose" 3
+
+
+
+
+
 
 
 
