@@ -186,6 +186,11 @@ python chambergo/Doble7.py "alumno01" 11
 python chambergo/Doble7.py "alumno02" 12
 python chambergo/Doble7.py "alumno03" 15
 
+python chambergo/Doble8.py "trabajador01" 35
+python chambergo/Doble8.py "trabajador02" 26
+python chambergo/Doble8.py "trabajador03" 45
+
+
 
 
 
