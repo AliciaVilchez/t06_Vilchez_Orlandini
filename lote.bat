@@ -222,6 +222,12 @@ python chambergo/Multiple6.py "cliente1" 550 280 100
 python chambergo/Multiple6.py "cliente2" 500 305 98
 python chambergo/Multiple6.py "cliente3" 480 224 76
 
+python chambergo/Multiple7.py "alumno1" 15 12 9
+python chambergo/Multiple7.py "alumno2" 14 13 10
+python chambergo/Multiple7.py "alumno3" 13 14 11
+
+
+
 
 
 
