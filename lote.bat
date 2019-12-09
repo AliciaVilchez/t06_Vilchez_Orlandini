@@ -162,6 +162,14 @@ python chambergo/Doble1.py "pastillas" 13
 python chambergo/Doble1.py "pastillas" 10
 python chambergo/Doble1.py "pastillas" 9
 
+python chambergo/Doble2.py "usuario01" 10
+python chambergo/Doble2.py "usuario02" 8
+python chambergo/Doble2.py "usuario03" 6
+
+
+
+
+
 
 
 
