@@ -230,6 +230,12 @@ python chambergo/Multiple8.py "Juliana" 45 35 28
 python chambergo/Multiple8.py "Karlos" 40 30 30
 python chambergo/Multiple8.py "Jesus" 50 45 36
 
+python chambergo/Multiple9.py "trabajador1" 61 32 9
+python chambergo/Multiple9.py "trabajador2" 59 29 4
+python chambergo/Multiple9.py "trabajador3" 45 34 10
+
+
+
 
 
 
