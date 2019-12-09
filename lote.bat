@@ -210,6 +210,12 @@ python chambergo/Multiple3.py "alumno1" 26 18 9
 python chambergo/Multiple3.py "alumno2" 25 19 11
 python chambergo/Multiple3.py "alumno3" 24 20 11
 
+python chambergo/Multiple4.py "cartera" 350 200 78
+python chambergo/Multiple4.py "casaca" 290 180 80
+python chambergo/Multiple4.py "botas" 250 240 65
+
+
+
 
 
 
