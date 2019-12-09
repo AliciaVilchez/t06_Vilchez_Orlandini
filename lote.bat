@@ -158,6 +158,12 @@ python chambergo/Simple10.py "cliente01" 53
 python chambergo/Simple10.py "cliente02" 48
 python chambergo/Simple10.py "cliente03" 57
 
+python chambergo/Doble1.py "pastillas" 13
+python chambergo/Doble1.py "pastillas" 10
+python chambergo/Doble1.py "pastillas" 9
+
+
+
 
 
 
