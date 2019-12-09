@@ -178,6 +178,12 @@ python chambergo/Doble5.py "Percy" 5
 python chambergo/Doble5.py "Javier" 3
 python chambergo/Doble5.py "Cecilio" 6
 
+python chambergo/Doble6.py "cliente01" 65
+python chambergo/Doble6.py "cliente02" 35
+python chambergo/Doble6.py "cliente03" 43
+
+
+
 
 
 
