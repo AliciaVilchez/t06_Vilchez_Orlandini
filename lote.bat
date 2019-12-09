@@ -198,6 +198,12 @@ python chambergo/Doble10.py "cliente1" 24
 python chambergo/Doble10.py "cliente2" 15
 python chambergo/Doble10.py "cliente3" 56
 
+python chambergo/Multiple1.py "pastillas" 6 3 2
+python chambergo/Multiple1.py "pastillas" 7 4 3
+python chambergo/Multiple1.py "pastillas" 8 5 3
+
+
+
 
 
 
