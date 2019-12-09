@@ -126,6 +126,12 @@ python chambergo/Simple2.py "usuario1" 13
 python chambergo/Simple2.py "usuario2" 14
 python chambergo/Simple2.py "usuario3" 16
 
+python chambergo/Simple3.py "alumno1" 5
+python chambergo/Simple3.py "alumno2" 8
+python chambergo/Simple3.py "alumno3" 7
+
+
+
 
 
 
