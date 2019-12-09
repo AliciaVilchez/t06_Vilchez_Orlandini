@@ -202,6 +202,12 @@ python chambergo/Multiple1.py "pastillas" 6 3 2
 python chambergo/Multiple1.py "pastillas" 7 4 3
 python chambergo/Multiple1.py "pastillas" 8 5 3
 
+python chambergo/Multiple2.py "usuario1" 13 9 5
+python chambergo/Multiple2.py "usuario2" 11 7 4
+python chambergo/Multiple2.py "usuario3" 10 8 6
+
+
+
 
 
 
