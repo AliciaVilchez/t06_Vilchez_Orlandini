@@ -170,6 +170,14 @@ python chambergo/Doble3.py "alumno01" 9
 python chambergo/Doble3.py "alumno01" 4
 python chambergo/Doble3.py "alumno01" 8
 
+python chambergo/Doble4.py "cartera" 150
+python chambergo/Doble4.py "casaca" 220
+python chambergo/Doble4.py "botas" 180
+
+
+
+
+
 
 
 
