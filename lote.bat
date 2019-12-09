@@ -226,6 +226,12 @@ python chambergo/Multiple7.py "alumno1" 15 12 9
 python chambergo/Multiple7.py "alumno2" 14 13 10
 python chambergo/Multiple7.py "alumno3" 13 14 11
 
+python chambergo/Multiple8.py "Juliana" 45 35 28
+python chambergo/Multiple8.py "Karlos" 40 30 30
+python chambergo/Multiple8.py "Jesus" 50 45 36
+
+
+
 
 
 
