@@ -206,6 +206,12 @@ python chambergo/Multiple2.py "usuario1" 13 9 5
 python chambergo/Multiple2.py "usuario2" 11 7 4
 python chambergo/Multiple2.py "usuario3" 10 8 6
 
+python chambergo/Multiple3.py "alumno1" 26 18 9
+python chambergo/Multiple3.py "alumno2" 25 19 11
+python chambergo/Multiple3.py "alumno3" 24 20 11
+
+
+
 
 
 
