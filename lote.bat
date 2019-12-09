@@ -134,6 +134,12 @@ python chambergo/Simple4.py "cartera" 220
 python chambergo/Simple4.py "casaca" 280
 python chambergo/Simple4.py "botas" 350
 
+python chambergo/Simple5.py "Pedro" 4
+python chambergo/Simple5.py "Juan" 7
+python chambergo/Simple5.py "Cesar" 9
+
+
+
 
 
 
