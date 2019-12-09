@@ -90,6 +90,10 @@ python vilchez/condicionales.multiples03.py "Rita" 7
 python vilchez/condicionales.multiples03.py "Carlos" 5
 python vilchez/condicionales.multiples03.py "Jose" 3
 
+python vilchez/condicionales.multiples04.py "Karla" 20 18 19 20
+python vilchez/condicionales.multiples04.py "Kevin" 17 16 15 16
+python vilchez/condicionales.multiples04.py "Guadalupe" 12 11 11 10
+
 
 
 
