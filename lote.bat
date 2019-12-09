@@ -194,6 +194,12 @@ python chambergo/Doble9.py "Juanes" 23
 python chambergo/Doble9.py "Andrea" 44
 python chambergo/Doble9.py "Sandy" 32
 
+python chambergo/Doble10.py "cliente1" 24
+python chambergo/Doble10.py "cliente2" 15
+python chambergo/Doble10.py "cliente3" 56
+
+
+
 
 
 
