@@ -142,6 +142,12 @@ python chambergo/Simple6.py "cliente1" 35
 python chambergo/Simple6.py "cliente2" 85
 python chambergo/Simple6.py "cliente3" 76
 
+python chambergo/Simple7.py "alumno1" 15
+python chambergo/Simple7.py "alumno2" 14
+python chambergo/Simple7.py "alumno3" 13
+
+
+
 
 
 
