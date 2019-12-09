@@ -30,6 +30,12 @@ python vilchez/simple08.py "Juana" 2019 1996
 python vilchez/simple08.py "Tomas" 2019 1987
 python vilchez/simple08.py "Angie" 2019 2002
 
+python vilchez/simple09.py "Andre" "Coronel de la Marina" 100 6
+python vilchez/simple09.py "Monica" "Jefa de mantenimiento" 50 4
+python vilchez/simple09.py "Arsenio" "SubGeneral" 80 7
+
+
+
 
 
 
