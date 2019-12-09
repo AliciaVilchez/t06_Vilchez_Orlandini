@@ -234,6 +234,12 @@ python chambergo/Multiple9.py "trabajador1" 61 32 9
 python chambergo/Multiple9.py "trabajador2" 59 29 4
 python chambergo/Multiple9.py "trabajador3" 45 34 10
 
+python chambergo/Multiple10.py "cliente01" 55 15 7
+python chambergo/Multiple10.py "cliente02" 50 30 10
+python chambergo/Multiple10.py "cliente03" 48 29 6
+
+
+
 
 
 
