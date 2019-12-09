@@ -218,6 +218,12 @@ python chambergo/Multiple5.py "Juliana" 10 5 1
 python chambergo/Multiple5.py "Karlos" 15 7 2
 python chambergo/Multiple5.py "Jesus" 9 8 1
 
+python chambergo/Multiple6.py "cliente1" 550 280 100
+python chambergo/Multiple6.py "cliente2" 500 305 98
+python chambergo/Multiple6.py "cliente3" 480 224 76
+
+
+
 
 
 
