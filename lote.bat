@@ -166,6 +166,10 @@ python chambergo/Doble2.py "usuario01" 10
 python chambergo/Doble2.py "usuario02" 8
 python chambergo/Doble2.py "usuario03" 6
 
+python chambergo/Doble3.py "alumno01" 9
+python chambergo/Doble3.py "alumno01" 4
+python chambergo/Doble3.py "alumno01" 8
+
 
 
 
