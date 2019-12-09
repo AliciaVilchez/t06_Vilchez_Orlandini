@@ -150,6 +150,12 @@ python chambergo/Simple8.py "trabajador1" 42
 python chambergo/Simple8.py "trabajador2" 42
 python chambergo/Simple8.py "trabajador3" 40
 
+python chambergo/Simple9.py "Julio" 42
+python chambergo/Simple9.py "Andres" 65
+python chambergo/Simple9.py "Sandra" 35
+
+
+
 
 
 
