@@ -50,6 +50,12 @@ python vilchez/condicionales.dobles03.py "Rita" 6
 python vilchez/condicionales.dobles03.py "Carlos" 4
 python vilchez/condicionales.dobles03.py "Jose" 8
 
+python vilchez/condicionales.dobles04.py "Karla" 15 12 11 12
+python vilchez/condicionales.dobles04.py "Kevin" 11 15 14 16
+python vilchez/condicionales.dobles04.py "Guadalupe" 18 20 15 16
+
+
+
 
 
 
