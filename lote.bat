@@ -138,6 +138,14 @@ python chambergo/Simple5.py "Pedro" 4
 python chambergo/Simple5.py "Juan" 7
 python chambergo/Simple5.py "Cesar" 9
 
+python chambergo/Simple6.py "cliente1" 35
+python chambergo/Simple6.py "cliente2" 85
+python chambergo/Simple6.py "cliente3" 76
+
+
+
+
+
 
 
 
