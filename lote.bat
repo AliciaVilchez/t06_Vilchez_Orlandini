@@ -190,6 +190,11 @@ python chambergo/Doble8.py "trabajador01" 35
 python chambergo/Doble8.py "trabajador02" 26
 python chambergo/Doble8.py "trabajador03" 45
 
+python chambergo/Doble9.py "Juanes" 23
+python chambergo/Doble9.py "Andrea" 44
+python chambergo/Doble9.py "Sandy" 32
+
+
 
 
 
