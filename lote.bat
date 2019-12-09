@@ -78,6 +78,14 @@ python vilchez/condicionales.dobles10.py "Josefina" 180 150
 python vilchez/condicionales.dobles10.py "Eduardo" 100 100
 python vilchez/condicionales.dobles10.py "Blanca" 50 80
 
+python vilchez/condicionales.multiples01.py "zapatillas" 350
+python vilchez/condicionales.multiples01.py "zapatillas" 220
+python vilchez/condicionales.multiples01.py "cartera Renzo Costa" 95
+
+
+
+
+
 
 
 
