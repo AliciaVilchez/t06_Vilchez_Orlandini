@@ -58,6 +58,10 @@ python vilchez/condicionales.dobles05.py "Axel" "pantalones"  4 80
 python vilchez/condicionales.dobles05.py "Santiago" "zapatillas" 2 350
 python vilchez/condicionales.dobles05.py "Diego" "polos" 2 80
 
+python vilchez/condicionales.dobles06.py "Valentin" "Doctor" 38 "24meses"
+python vilchez/condicionales.dobles06.py "Luis" "Ingeniero de sitemas" 27 "6meses"
+python vilchez/condicionales.dobles06.py "Sergio" "Contador" 35 "12meses"
+
 
 
 
