@@ -62,6 +62,12 @@ python vilchez/condicionales.dobles06.py "Valentin" "Doctor" 38 "24meses"
 python vilchez/condicionales.dobles06.py "Luis" "Ingeniero de sitemas" 27 "6meses"
 python vilchez/condicionales.dobles06.py "Sergio" "Contador" 35 "12meses"
 
+python vilchez/condicionales.dobles07.py "Lidia" "Particular" 49 "Si"
+python vilchez/condicionales.dobles07.py "Antonio" "Seguro" 55 "No"
+python vilchez/condicionales.dobles07.py "Elena" "Seguro" 38 "No"
+
+
+
 
 
 
