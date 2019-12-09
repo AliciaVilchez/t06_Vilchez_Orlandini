@@ -130,6 +130,12 @@ python chambergo/Simple3.py "alumno1" 5
 python chambergo/Simple3.py "alumno2" 8
 python chambergo/Simple3.py "alumno3" 7
 
+python chambergo/Simple4.py "cartera" 220
+python chambergo/Simple4.py "casaca" 280
+python chambergo/Simple4.py "botas" 350
+
+
+
 
 
 
