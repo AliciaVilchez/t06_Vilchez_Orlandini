@@ -22,6 +22,12 @@ python vilchez/simple06.py "Valentin" "Doctor" 38 "24meses"
 python vilchez/simple06.py "Luis" "Ingeniero de sitemas" 27 "6meses"
 python vilchez/simple06.py "Sergio" "Contador" 35 "12meses"
 
+python vilchez/simple07.py "Lidia" "Particular" 49 "Si"
+python vilchez/simple07.py "Antonio" "Particular" 55 "Si"
+python vilchez/simple07.py "Elena" "Seguro" 38 "No"
+
+
+
 
 
 
