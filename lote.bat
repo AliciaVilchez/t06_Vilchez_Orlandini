@@ -74,6 +74,12 @@ python vilchez/condicionales.dobles09.py "Andre" "Coronel de la Marina" 100 6
 python vilchez/condicionales.dobles09.py "Monica" "Jefa de mantenimiento" 50 4
 python vilchez/condicionales.dobles09.py "Arsenio" "SubGeneral" 80 7
 
+python vilchez/condicionales.dobles10.py "Josefina" 180 150
+python vilchez/condicionales.dobles10.py "Eduardo" 100 100
+python vilchez/condicionales.dobles10.py "Blanca" 50 80
+
+
+
 
 
 
