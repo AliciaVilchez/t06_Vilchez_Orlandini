@@ -114,6 +114,12 @@ python vilchez/condicionales.multiples09.py "Andre" "Coronel de la Marina" 100 6
 python vilchez/condicionales.multiples09.py "Monica" "Jefa de mantenimiento" 135 7
 python vilchez/condicionales.multiples09.py "Arsenio" "SubGeneral" 0 0
 
+python vilchez/condicionales.multiples10.py "Josefina" 180 300
+python vilchez/condicionales.multiples10.py "Eduardo" 100 100
+python vilchez/condicionales.multiples10.py "Blanca" 50 110
+
+
+
 
 
 
